@@ -1,2 +1,2 @@
-# STM32F10CB
+# STM32F103C8
 ARM Microcontroller
